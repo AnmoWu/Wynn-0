@@ -1,0 +1,2 @@
+D:\VS\Wynn\MARS\Debug\MARS.exe
+D:\VS\Wynn\MARS\Debug\MARS.pdb
