@@ -1,0 +1,4 @@
+﻿  content.cpp
+D:\VS\Wynn\FILM\content.cpp(28,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS\Wynn\FILM\content.cpp(71): warning C4715: “s_gets”: 不是所有的控件路径都返回值
+  FILM.vcxproj -> D:\VS\Wynn\FILM\Debug\FILM.exe

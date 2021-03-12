@@ -1,0 +1,2 @@
+D:\VS\Wynn\SCORE\Debug\SCORE.exe
+D:\VS\Wynn\SCORE\Debug\SCORE.pdb

@@ -1,0 +1,2 @@
+D:\VS\Wynn\CLASSTRY\Debug\CLASSTRY.exe
+D:\VS\Wynn\CLASSTRY\Debug\CLASSTRY.pdb

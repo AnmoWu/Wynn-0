@@ -1,0 +1,6 @@
+﻿  last.cpp
+D:\VS\Wynn\SCORE\last.cpp(18,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+D:\VS\Wynn\SCORE\last.cpp(18,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“double”
+D:\VS\Wynn\SCORE\last.cpp(18,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“double”
+D:\VS\Wynn\SCORE\last.cpp(18,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“double”
+  SCORE.vcxproj -> D:\VS\Wynn\SCORE\Debug\SCORE.exe
